@@ -2,16 +2,16 @@
 LICENSE AGREEMENT FOR THE APPLE SAN FRANCISCO FONT  
 For iOS, OS X and tvOS application uses only**
 
-#### PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE USING THE APPLE SAN FRANCISCO FONT (DEFINED BELOW). BY USING THE APPLE FONT, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU ARE ACCESSING THE APPLE FONT ELECTRONICALLY, SIGNIFY YOUR AGREEMENT TO BE BOUND BY THE TERMS OF THIS LICENSE BY CLICKING THE "AGREE " BUTTON. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE THE APPLE FONT AND CLICK “DISAGREE”.
+**PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE USING THE APPLE SAN FRANCISCO FONT (DEFINED BELOW). BY USING THE APPLE FONT, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU ARE ACCESSING THE APPLE FONT ELECTRONICALLY, SIGNIFY YOUR AGREEMENT TO BE BOUND BY THE TERMS OF THIS LICENSE BY CLICKING THE "AGREE " BUTTON. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE THE APPLE FONT AND CLICK “DISAGREE”.**
 
-#### IMPORTANT NOTE:  THE APPLE SAN FRANCISCO FONT IS TO BE USED SOLELY FOR CREATING MOCK-UPS OF USER INTERFACES TO BE USED IN SOFTWARE PRODUCTS RUNNING ON APPLE’S iOS, OS X OR tvOS OPERATING SYSTEMS, AS APPLICABLE.
+**IMPORTANT NOTE:  THE APPLE SAN FRANCISCO FONT IS TO BE USED SOLELY FOR CREATING MOCK-UPS OF USER INTERFACES TO BE USED IN SOFTWARE PRODUCTS RUNNING ON APPLE’S iOS, OS X OR tvOS OPERATING SYSTEMS, AS APPLICABLE.**
 
-#### 1. General.
+**1. General.**  
 A. The Apple font, interfaces, content, data, and other materials accompanying this License, whether on disk, print or electronic documentation, in read only memory, or any other media or in any other form, (collectively, the "**Apple Font**") are licensed, not sold, to you by Apple Inc. ("**Apple**") for use only under the terms of this License. Apple and/or Apple’s licensors retain ownership of the Apple Font itself and reserve all rights not expressly granted to you. The terms of this License will govern any software upgrades provided by Apple that replace and/or supplement the original Apple Font, unless such upgrade is accompanied by a separate license in which case the terms of that license will govern.
 
 B. Title and intellectual property rights in and to any content displayed by or accessed through the Apple Font belongs to the respective content owner. Such content may be protected by copyright or other intellectual property laws and treaties, and may be subject to terms of use of the third party providing such content. This License does not grant you any rights to use such content nor does it guarantee that such content will continue to be available to you.
 
-#### 2. Permitted License Uses and Restrictions.
+**2. Permitted License Uses and Restrictions.**  
 A. *Limited License.* Subject to the terms of this License, you may use the Apple Font solely for creating mock-ups of user interfaces to be used in software products running on Apple’s iOS, OS X or tvOS operating systems, as applicable. The foregoing right includes the right to show the Apple Font in screen shots, images, mock-ups or other depictions, digital and/or print, of such software products running solely on iOS, OS X or tvOS.
 
 You may use this Apple Font only for the purposes described in this License and only if you are a registered Apple Developer, or as otherwise expressly permitted by Apple in writing.
@@ -28,7 +28,7 @@ D. *Compliance with Laws.* You agree to use the Apple Font in compliance with al
 
 **4. Termination.** This License shall commence upon your installation or use of the Apple Font. Your rights under this License will terminate automatically or cease to be effective without notice from Apple (a) if you fail to comply with any term(s) of this License, (b) if you are no longer a registered Apple Developer, or (c) if Apple releases a version of the Apple Font which is incompatible with this version of the Apple Font. Upon the termination of this License, you shall cease all use of the Apple Font and destroy all copies, full or partial, of the Apple Font. Section 2B, 2C, and 5 through 10 of this License shall survive any termination.
 
-#### 5. Disclaimer of Warranties.
+**5. Disclaimer of Warranties.**  
 A. YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, USE OF THE APPLE FONT IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU.
 
 B. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE APPLE FONT IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND APPLE AND APPLE'S LICENSORS (COLLECTIVELY REFERRED TO AS “APPLE” FOR THE PURPOSES OF SECTIONS 5 AND 6) HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE APPLE FONT, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS.
