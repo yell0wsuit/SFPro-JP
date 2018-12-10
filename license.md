@@ -6,7 +6,7 @@ For iOS, OS X and tvOS application uses only**
 
 **IMPORTANT NOTE: THE APPLE SAN FRANCISCO FONT IS TO BE USED SOLELY FOR CREATING MOCK-UPS OF USER INTERFACES TO BE USED IN SOFTWARE PRODUCTS RUNNING ON APPLE’S iOS, OS X OR tvOS OPERATING SYSTEMS, AS APPLICABLE.**
 
-**1. General.**
+**1. General.**  
 A. The Apple font, interfaces, content, data, and other materials accompanying this License, whether on disk, print or electronic documentation, in read only memory, or any other media or in any other form, (collectively, the “**Apple Font**”) are licensed, not sold, to you by Apple Inc. (“**Apple**”) for use only under the terms of this License. Apple and/or Apple’s licensors retain ownership of the Apple Font itself and reserve all rights not expressly granted to you. The terms of this License will govern any software upgrades provided by Apple that replace and/or supplement the original Apple Font, unless such upgrade is accompanied by a separate license in which case the terms of that license will govern.
 
 B. Title and intellectual property rights in and to any content displayed by or accessed through the Apple Font belongs to the respective content owner. Such content may be protected by copyright or other intellectual property laws and treaties, and may be subject to terms of use of the third party providing such content. This License does not grant you any rights to use such content nor does it guarantee that such content will continue to be available to you.
