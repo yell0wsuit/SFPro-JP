@@ -7,5 +7,5 @@ SFProJPDisplay. Fonts used to render Japanese characters on https://www.apple.co
 As a result, this repository is archived.
 
 ## License
-Read the Type Project EULA [here](http://typeproject.com/wp-content/themes/typeproject/files/axisfont-eula-en.pdf).  
+Read the Type Project's EULA [here](http://typeproject.com/wp-content/themes/typeproject/files/axisfont-eula-en.pdf).  
 The [license.md](license.md) file is for the purpose of showing the license for the [San Francisco family](../../../San-Francisco-family) repository.
