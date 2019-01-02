@@ -4,5 +4,7 @@ SFProJPDisplay. Fonts used to render Japanese characters on https://www.apple.co
 
 ~~© 2015 Apple Inc. All rights reserved.~~ It is appeared that Apple uses a modified version of [AXIS Font](http://typeproject.com/en/fonts/axisfont#family) which removes all of Latin/Greek/etc. characters, leaving only Japanese and Chinese ones. This font is owned by [Type Project](http://typeproject.com/en/).
 
+As a result, this repository is archived.
+
 ## License
 Read the Type Project EULA [here](http://typeproject.com/wp-content/themes/typeproject/files/axisfont-eula-en.pdf).
